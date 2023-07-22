@@ -49,10 +49,6 @@ We collect some useful tips for designing prompts that are collected from online
 
 
 
-**Welcome everyone to provide us with more relevant tips in the form of [issues](https://github.com/RUCAIBox/LLMSurvey/issues/34)**. After selection, we will regularly update them on GitHub and indicate the source.
-
-
-
 ## 🚀(New) Experiments
 
 ### Instruction Tuning Experiments
