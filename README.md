@@ -43,8 +43,6 @@ To support incremental update, **I share the source file of this figure, and Ilc
 
 ## 🚀(New) Prompts
 
-I collect some useful tips for designing prompts that are collected from online notes and experiences from our authors, where I also show the related ingredients and principles (introduced in Section 8.1). 
-
 ![prompt examples](https://github.com/SSusantAchary/LLM-Resources-Papers-Frameworks-Tools/blob/main/images/prompts_main.png)
 
 
