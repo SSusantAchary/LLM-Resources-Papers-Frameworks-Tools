@@ -484,3 +484,11 @@ for any purpose, even commercially. But if you do the latter, you **must distrib
 - [BSD-3-Clause](https://en.wikipedia.org/wiki/BSD_licenses): This version allows unlimited redistribution for any purpose as long as its copyright notices and the license's disclaimers of warranty are maintained. 
 
 **Disclaimer:** The information provided in this repo does not, and is not intended to, constitute legal advice. Maintainers of this repo are not responsible for the actions of third parties who use the models. Please take Legal advice before using models for commercial purposes.
+
+```
+@article{Resources,
+    title={Large Language Models},
+    author={susant_achary},
+    year={2023},
+}
+```
