@@ -485,10 +485,14 @@ for any purpose, even commercially. But if you do the latter, you **must distrib
 
 **Disclaimer:** The information provided in this repo does not, and is not intended to, constitute legal advice. Maintainers of this repo are not responsible for the actions of third parties who use the models. Please take Legal advice before using models for commercial purposes.
 
-```
-@article{Resources,
+
+## Show your support
+Give a 🌟 if this repo helped you! 
+
+```bibtex
+@misc{Resources,
     title={Large Language Models},
-    author={susant_achary},
-    year={2023},
+     author= {Susant Achary},
+    year={2023}
 }
 ```
