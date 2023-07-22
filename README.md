@@ -1,4 +1,4 @@
-<h1 align="center">Large_Language_Models</h1>
+<h1 align="center">Large_Language_Models🧠</h1>
 
 ![](https://github.com/SSusantAchary/LLM-Resources-Papers-Frameworks-Tools/blob/main/llm-timeline.png)
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT and other papers released related to LLMs. 
@@ -483,6 +483,8 @@ for any purpose, even commercially. But if you do the latter, you **must distrib
 
 **Disclaimer:** The information provided in this repo does not, and is not intended to, constitute legal advice. Maintainers of this repo are not responsible for the actions of third parties who use the models. Please take Legal advice before using models for commercial purposes.
 
+### ✍️Note: This is a work in progress 🚧   !!! Subscribe & will keep you updated.  Stay Tuned 😊
+Thanks to 
 
 ## Show your support
 Give a 🌟 if this repo helped you! 
