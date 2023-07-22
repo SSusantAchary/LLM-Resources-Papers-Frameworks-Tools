@@ -1,10 +1,9 @@
 <h1 align="center">Large_Langauge_Models</h1>
 
 ![](https://github.com/SSusantAchary/LLM-Resources-Papers-Frameworks-Tools/blob/main/llm-timeline.png)
-🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT and other papers released related to LLMs. 
 
-
-## Milestone Papers
+## Impactful Papers
 
 |  Date  |       keywords       |    Institute    | Paper  | Publication |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
