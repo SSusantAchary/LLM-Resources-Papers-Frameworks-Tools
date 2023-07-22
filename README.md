@@ -11,13 +11,13 @@ and “large language model” (since October 2019), respectively.
 
 ![arxiv_llms](https://github.com/SSusantAchary/LLM-Resources-Papers-Frameworks-Tools/blob/main/images/arxiv_llms.png)
 
-The statistics are calculated using exact match by querying the keyphrases in title or abstract by months. We set different x-axis ranges for the two keyphrases, because “language models” have been explored at an earlier time. We label the points corresponding to important landmarks in the research progress of LLMs. A sharp increase occurs after the release of ChatGPT: the average number of published arXiv papers that contain “large language model” in title or abstract goes from 0.40 per day to 8.58 per day.
+The statistics are calculated using exact match by querying the keyphrases in title or abstract by months. I set different x-axis ranges for the two keyphrases, because “language models” have been explored at an earlier time. I label the points corresponding to important landmarks in the research progress of LLMs. A sharp increase occurs after the release of ChatGPT: the average number of published arXiv papers that contain “large language model” in title or abstract goes from 0.40 per day to 8.58 per day.
 
 
 
 ## 🚀(New) Technical Evolution of GPT-series Models
 
-A brief illustration for the technical evolution of GPT-series models. We plot this figure mainly based on the papers, blog articles and official APIs from OpenAI. Here, solid lines denote that there exists an explicit evidence (e.g., the official statement that a new model is developed based on a base model) on the evolution path between two models, while dashed lines denote a relatively weaker evolution relation.
+A brief illustration for the technical evolution of GPT-series models. I plot this figure mainly based on the papers, blog articles and official APIs from OpenAI. Here, solid lines denote that there exists an explicit evidence (e.g., the official statement that a new model is developed based on a base model) on the evolution path betIen two models, while dashed lines denote a relatively Iaker evolution relation.
 
 
 
@@ -27,7 +27,7 @@ A brief illustration for the technical evolution of GPT-series models. We plot t
 
 ## 🚀(New) Evolutionary Graph of LLaMA Family
 
-An evolutionary graph of the research work conducted on LLaMA. Due to the huge number, we cannot include all
+An evolutionary graph of the research work conducted on LLaMA. Due to the huge number, I cannot include all
 the LLaMA variants in this figure, even much excellent work. 
 
 
@@ -36,14 +36,14 @@ the LLaMA variants in this figure, even much excellent work.
 
 
 
-To support incremental update, **we share the source file of this figure, and welcome the readers to include the desired models by submitting the pull requests on our GitHub page. If you're instrested, please request by application.**
+To support incremental update, **I share the source file of this figure, and Ilcome the readers to include the desired models by submitting the pull requests on our GitHub page. If you're instrested, please request by application.**
 
 
 
 
 ## 🚀(New) Prompts
 
-We collect some useful tips for designing prompts that are collected from online notes and experiences from our authors, where we also show the related ingredients and principles (introduced in Section 8.1). 
+I collect some useful tips for designing prompts that are collected from online notes and experiences from our authors, where I also show the related ingredients and principles (introduced in Section 8.1). 
 
 ![prompt examples](https://github.com/SSusantAchary/LLM-Resources-Papers-Frameworks-Tools/blob/main/images/prompts_main.png)
 
@@ -53,7 +53,7 @@ We collect some useful tips for designing prompts that are collected from online
 
 ### Instruction Tuning Experiments
 
-We will explore the effect of different types of instructions in fine-tuning LLMs (i.e., 7B LLaMA26), as well as examine the usefulness of several instruction improvement strategies.
+I will explore the effect of different types of instructions in fine-tuning LLMs (i.e., 7B LLaMA26), as Ill as examine the usefulness of several instruction improvement strategies.
 
 
 
@@ -63,7 +63,7 @@ We will explore the effect of different types of instructions in fine-tuning LLM
 
 ### Ability Evaluaition Experiments
 
-We conduct a fine-grained evaluation on the abilities discussed in Section 7.1 and Section 7.2. For each kind of ability, we select representative tasks and datasets for conducting evaluation experiments to examine the corresponding performance of LLMs. 
+I conduct a fine-grained evaluation on the abilities discussed in Section 7.1 and Section 7.2. For each kind of ability, I select representative tasks and datasets for conducting evaluation experiments to examine the corresponding performance of LLMs. 
 
 
 
@@ -90,7 +90,7 @@ We conduct a fine-grained evaluation on the abilities discussed in Section 7.1 a
 | 2021-09 |         FLAN         |      Google      | [Finetuned Language Models are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR)                                                                                        |    ICLR <br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fff0b2681d7b05e16c46dfb71d980cc2f605907cd%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2021-10 |         T0         |      HuggingFace et al.      | [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207)                                                                                        |    ICLR <br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F17dd3555fd1ccf1141cf984347fa1b3fd6b009ca%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2021-12 |         GLaM         |      Google      | [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/pdf/2112.06905.pdf)                                                                             |    ICML<br> ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F80d0116d77beeded0c23cf48946d9d10d4faee14%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
-| 2021-12 |        WebGPT        |      OpenAI      | [WebGPT: Browser-assisted question-answering with human feedback](https://www.semanticscholar.org/paper/WebGPT%3A-Browser-assisted-question-answering-with-Nakano-Hilton/2f3efe44083af91cef562c1a3451eee2f8601d22)                                                                      |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2f3efe44083af91cef562c1a3451eee2f8601d22%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
+| 2021-12 |        IbGPT        |      OpenAI      | [IbGPT: Browser-assisted question-ansIring with human feedback](https://www.semanticscholar.org/paper/IbGPT%3A-Browser-assisted-question-ansIring-with-Nakano-Hilton/2f3efe44083af91cef562c1a3451eee2f8601d22)                                                                      |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2f3efe44083af91cef562c1a3451eee2f8601d22%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2021-12 |        Retro        |     DeepMind     | [Improving language models by retrieving from trillions of tokens](https://www.deepmind.com/publications/improving-language-models-by-retrieving-from-trillions-of-tokens)             |    ICML<br> ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F002c256d30d6be4b23d365a8de8ae0e67e4c9641%3Ffields%3DcitationCount&query=%24.citationCount&label=citation) |
 | 2021-12 |        Gopher        |     DeepMind     | [Scaling Language Models: Methods, Analysis &amp; Insights from Training Gopher](https://arxiv.org/pdf/2112.11446.pdf)                                                                 |![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F68f141724814839d556a989646194be88641b143%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
 | 2022-01 |         COT         |      Google      | [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)                                                                          |   NeurIPS<br>![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1b6e810ce0afd0dd093f789d2b2742d047e316d5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation)|
@@ -125,12 +125,12 @@ We conduct a fine-grained evaluation on the abilities discussed in Section 7.1 a
 
 ## Usage and Restrictions
 
-<!-- We build a decision flow for choosing LLMs or fine-tuned models~\protect\footnotemark for user's NLP applications.  -->
+<!-- I build a decision flow for choosing LLMs or fine-tuned models~\protect\footnotemark for user's NLP applications.  -->
 <!-- The decision flow helps users assess whether their downstream NLP applications at hand meet specific conditions and, based on that evaluation, determine whether LLMs or fine-tuned models are the most suitable choice for their applications. -->
 
-We build a table summarizing the LLMs usage restrictions (e.g. for commercial and research purposes). In particular, we provide the information from the models and their pretraining data's perspective.
-We urge the users in the community to refer to the licensing information for public models and data and use them in a responsible manner.
-We urge the developers to pay special attention to licensing, make them transparent and comprehensive, to prevent any unwanted and unforeseen usage.
+I build a table summarizing the LLMs usage restrictions (e.g. for commercial and research purposes). In particular, I provide the information from the models and their pretraining data's perspective.
+I urge the users in the community to refer to the licensing information for public models and data and use them in a responsible manner.
+I urge the developers to pay special attention to licensing, make them transparent and comprehensive, to prevent any unwanted and unforeseen usage.
 
 <table class="table table-bordered table-hover table-condensed">
     <thead><tr><th title="Field #1">LLMs</th>
@@ -165,7 +165,7 @@ We urge the developers to pay special attention to licensing, make them transpar
     <td>✅</td>
     <td> </td>
     <td>Public</td>
-    <td>BookCorpus, CC-News, OpenWebText, STORIES</td>
+    <td>BookCorpus, CC-News, OpenIbText, STORIES</td>
     </tr>
     <tr>
     <td>ERNIE</td>
@@ -250,7 +250,7 @@ We urge the developers to pay special attention to licensing, make them transpar
     <td>✅</td>
     <td>Use GPT-2 responsibly and clearly indicate your content was created using GPT-2.</td>
     <td>Public</td>
-    <td>WebText</td>
+    <td>IbText</td>
     </tr>
     <tr>
     <td>GPT-Neo</td>
@@ -416,7 +416,7 @@ We urge the developers to pay special attention to licensing, make them transpar
         <td>✅/❌</td>
         <td>Available under a license allowing commercial use</td>
         <td>Public</td>
-        <td><a href="https://huggingface.co/datasets/tiiuae/falcon-refinedweb">RefinedWeb</a></td>
+        <td><a href="https://huggingface.co/datasets/tiiuae/falcon-refinedIb">RefinedIb</a></td>
     </tr>
     </tbody></table>
 
@@ -446,10 +446,10 @@ We urge the developers to pay special attention to licensing, make them transpar
 - [DeepLearning.AI] ChatGPT Prompt Engineering for Developers [Homepage](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - [Princeton] Understanding Large Language Models [Homepage](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [OpenBMB] 大模型公开课 [主页](https://www.openbmb.org/community/course)
-- [Stanford] CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF [Slides](https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
+- [Stanford] CS224N-Lecture 11: Prompting, Instruction Finetuning, and RLHF [Slides](https://Ib.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf)
 - [Stanford] CS324-Large Language Models [Homepage](https://stanford-cs324.github.io/winter2022/)
-- [Stanford] CS25-Transformers United V2 [Homepage](https://web.stanford.edu/class/cs25/)
-- [Stanford Webinar] GPT-3 & Beyond [Video](https://www.youtube.com/watch?v=-lnHHWRCDGk)
+- [Stanford] CS25-Transformers United V2 [Homepage](https://Ib.stanford.edu/class/cs25/)
+- [Stanford Ibinar] GPT-3 & Beyond [Video](https://www.youtube.com/watch?v=-lnHHWRCDGk)
 - [李沐] InstructGPT论文精读 [Bilibili](https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.337.search-card.all.click&vd_source=1e55c5426b48b37e901ff0f78992e33f) [Youtube](https://www.youtube.com/watch?v=zfIGAwD1jOQ)
 - [陳縕儂] OpenAI InstructGPT 從人類回饋中學習 ChatGPT 的前身 [Youtube](https://www.youtube.com/watch?v=ORHv8yKAV2Q)
 - [李沐] HELM全面语言模型评测 [Bilibili](https://www.bilibili.com/video/BV1z24y1B7uX/?spm_id_from=333.337.search-card.all.click&vd_source=1e55c5426b48b37e901ff0f78992e33f)
@@ -459,20 +459,20 @@ We urge the developers to pay special attention to licensing, make them transpar
 
 ## Tools for deploying LLM
 
-- [FastChat](https://github.com/lm-sys/FastChat) - A distributed multi-model LLM serving system with web UI and OpenAI-compatible RESTful APIs.
+- [FastChat](https://github.com/lm-sys/FastChat) - A distributed multi-model LLM serving system with Ib UI and OpenAI-compatible RESTful APIs.
 
 - [SkyPilot](https://github.com/skypilot-org/skypilot) - Run LLMs and batch jobs on any cloud. Get maximum cost savings, highest GPU availability, and managed execution -- all with a simple interface.
 
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 
-- [Text Generation Inference](https://github.com/huggingface/text-generation-inference) - A Rust, Python and gRPC server for text generation inference. Used in production at [HuggingFace](https://huggingface.co/) to power LLMs api-inference widgets.
+- [Text Generation Inference](https://github.com/huggingface/text-generation-inference) - A Rust, Python and gRPC server for text generation inference. Used in production at [HuggingFace](https://huggingface.co/) to poIr LLMs api-inference widgets.
 
 - [Haystack](https://haystack.deepset.ai/) - an open-source NLP framework that allows you to use LLMs and transformer-based models from Hugging Face, OpenAI and Cohere to interact with your own data. 
 -  [Sidekick](https://github.com/ai-sidekick/sidekick) - Data integration platform for LLMs. 
 - [LangChain](https://github.com/hwchase17/langchain) -  Building applications with LLMs through composability 
--  [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
+-  [Ichat-chatgpt](https://github.com/fuergaosi233/Ichat-chatgpt) - Use ChatGPT On Ichat via Ichaty
 - [promptfoo](https://github.com/typpo/promptfoo) - Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
-- [Agenta](https://github.com/agenta-ai/agenta) -  Easily build, version, evaluate and deploy your LLM-powered apps.
+- [Agenta](https://github.com/agenta-ai/agenta) -  Easily build, version, evaluate and deploy your LLM-poIred apps.
 
 ## What are release licences mean in LLMs world?
 
