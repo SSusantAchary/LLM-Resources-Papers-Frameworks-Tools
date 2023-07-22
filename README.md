@@ -492,7 +492,7 @@ Give a 🌟 if this repo helped you!
 ```bibtex
 @misc{Resources,
     title={Large Language Models},
-     author= {Susant Achary},
+    author= {Susant Achary},
     year={2023}
 }
 ```
