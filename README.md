@@ -523,7 +523,7 @@ Give a 🌟 if this repo helped you!
 
 ```bibtex
 @misc{Resources,
-    title={Large Language Models},
+    title={LLM-Resources-Papers-Frameworks-Tools},
     author= {Susant Achary},
     year={2023}
 }
