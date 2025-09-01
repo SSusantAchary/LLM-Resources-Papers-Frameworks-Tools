@@ -1,11 +1,13 @@
-<h1 align="center">GenAI Ecosystem🧠</h1>
+
+<h1 align="center">Large_Language_Models🧠</h1>
+
+![](https://github.com/SSusantAchary/LLM-Resources-Papers-Frameworks-Tools/blob/main/images/LLM__2025.png)
+🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT and other papers released related to LLMs. 
+
+
+<h2 align="center">GenAI Ecosystem🧠</h2>
 
 ![](https://github.com/SSusantAchary/LLM-Resources-Papers-Frameworks-Tools/blob/main/GenAI_Ecosystem.JPG)
-
-<h2 align="center">Large_Language_Models🧠</h1>
-
-![](https://github.com/SSusantAchary/LLM-Resources-Papers-Frameworks-Tools/blob/main/llm-timeline.png)
-🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT and other papers released related to LLMs. 
 
 
 ## 🚀(New) The trends of the number of papers related to LLMs on arXiv
@@ -525,6 +527,6 @@ Give a 🌟 if this repo helped you!
 @misc{Resources,
     title={LLM-Resources-Papers-Frameworks-Tools},
     author= {Susant Achary},
-    year={2023}
+    year={2025}
 }
 ```
